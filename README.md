@@ -1,4 +1,5 @@
 # NLA_project - Eigenjoy Enthusiasts
+Zolotarev Aleksandr, Pavel Muravskii, Petr Khovental
 The goal of this project is to select the best interpolation method for a coarse grid of novier stokes. And also to analyse the applicability of linear matrices for read-only solutions of this equation
 
 # First steps
